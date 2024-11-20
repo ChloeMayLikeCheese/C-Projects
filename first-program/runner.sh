@@ -1,2 +1,2 @@
 #!/bin/bash
-c3c compile ./FirstProgram.c3 && ./firstprogram
+gcc first-program.c -o executable && ./executable^C
